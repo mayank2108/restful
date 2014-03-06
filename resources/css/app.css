@@ -1,0 +1,31 @@
+.icon-user {
+    background-image: url(images/user.png) !important;
+}
+
+.icon-add {
+    background-image: url(images/add.png) !important;
+}
+
+.icon-delete {
+    background-image: url(images/delete.png) !important;
+}
+
+.icon-search {
+    background-image: url(images/find.png) !important;
+}
+
+.x-ie6 .icon-user {
+    background-image: url(images/user.gif) !important;
+}
+
+.x-ie6 .icon-add {
+    background-image: url(images/add.gif) !important;
+}
+
+.x-ie6 .icon-delete {
+    background-image: url(images/delete.gif) !important;
+}
+
+.x-ie6 .icon-search {
+    background-image: url(images/find.gif) !important;
+}
